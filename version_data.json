@@ -1742,10 +1742,8 @@
             "According to Notch, he sold Mojang because he didn't want the responsibility of owning a company of such global significance.",
             "As soon as Mojang was sold, Notch and the other two founders (Carl and Jakob) left the company."
           ]
-        }
-      ],
+        },
 
-      "upcomings": [
         {
           "title": "Trails & Tales",
           "subtitle": "1.20",
@@ -1770,7 +1768,9 @@
             { "text": "Hanging Signs" }
           ]
         }
-      ]
+      ],
+
+      "upcomings": []
     },
 
     {
