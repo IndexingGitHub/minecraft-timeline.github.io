@@ -406,6 +406,8 @@ function loadVersions(edition, panelDOM) {
 				});
 			}
 
+			console.log(yearDOMs)
+			console.log(yearDOMs[date.getFullYear()], typeof(yearDOMs[date.getFullYear()]))
 			yearDOMs[date.getFullYear()].appendChild(versionDOM);
 
 			versions[i].versionDOM = versionDOM;
