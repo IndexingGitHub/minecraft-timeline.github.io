@@ -3582,16 +3582,14 @@
           "date": "2011-10-07",
           "learnMore": "#Pocket_Edition_Alpha_0.1.1j",
           "mainFeatures": [{ "text": "Small Changes and Bug Fixes" }]
-        }
-      ],
+        },
 
-      "upcomings": [
         {
           "title": "Trails & Tales",
           "subtitle": "1.20",
           "description": "Archeology, Cherry Trees & Storytelling",
           "type": "major",
-          "possibleDate": "2023",
+          "date": "2023",
           "icon": "versions/bedrock/version_1_20.png",
           "funFact": "Did you know? This update didn't get its name and theme revealed until well into the snapshots.",
           "learnMore": "#Bedrock_Edition_1.20.0",
@@ -3610,7 +3608,9 @@
             { "text": "Hanging Signs" }
           ]
         }
-      ]
+      ],
+
+      "upcomings": []
     },
 
     {
