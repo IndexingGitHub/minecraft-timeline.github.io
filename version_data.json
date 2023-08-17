@@ -1751,7 +1751,7 @@
           "subtitle": "1.20",
           "description": "Archeology, Cherry Trees & Storytelling",
           "type": "major",
-          "possibleDate": "2023",
+          "date": "2023-06-07",
           "icon": "versions/java/version_1_20.png",
           "funFact": "Did you know? This update didn't get its name and theme revealed until well into the snapshots.\nFun fact: This update brings the first change to desert wells since they were added, over 11 years ago!",
           "learnMore": "#Java_Edition_1.20",
@@ -2415,7 +2415,7 @@
           "learnMore": "#Nether_Update",
           "mainFeatures": [
             { "text": "Warped Forests" },
-            { "text": "Crimsom Forests" },
+            { "text": "Crimson Forests" },
             { "text": "Soulsand Valleys" },
             { "text": "Piglins" },
             { "text": "Hoglins" },
